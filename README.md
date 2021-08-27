@@ -10,3 +10,7 @@
 - ZeroNights 2018 - joint effort with Ruslan Zakirov [@ttbr0](https://twitter.com/ttbr0) - NUClear explotion revfinal novideo.pdf
 - Detailed vulnerabilities description https://web.archive.org/web/20190531082049/https://embedi.org/blog/nuclear-explotion/
 - Demo
+
+## Data-only attacks agains UEFI BIOS - ZN2021X Dataonly attacks BIOS - Ermolov.pdf
+
+- ZeroNights(X) 2021
