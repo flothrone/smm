@@ -11,6 +11,6 @@
 - Detailed vulnerabilities description https://web.archive.org/web/20190531082049/https://embedi.org/blog/nuclear-explotion/
 - Demo
 
-## Data-only attacks agains UEFI BIOS - ZN2021X Dataonly attacks BIOS - Ermolov.pdf
+## Data-only attacks agains UEFI BIOS
 
-- ZeroNights(X) 2021
+- ZeroNights(X) 2021 - ZN2021X Dataonly attacks BIOS - Ermolov.pdf
